@@ -1,0 +1,32 @@
+{
+  "Name": "Ashish Menezes",
+  "JobRoles": [],
+  "BusinessTypes": [],
+  "IsOptedInToEmails": true,
+  "CourseProgress": [
+    {
+      "CourseName": "Google Analytics for Beginners",
+      "StartDate": 20200518,
+      "CourseCompleted": true,
+      "CertificateDate": 20200519,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    }
+  ]
+}
